@@ -1,0 +1,82 @@
+*{
+    background-color: rgb(238, 26, 26);
+}
+
+
+
+
+/* Import Fonts */
+* {
+    box-sizing: border-box;
+}
+.container {
+    display: flex;     
+}
+.box {
+color: rgb(56, 190, 44);
+font-size: 17px;
+font-family: Cambria, Cochin, Georgia, Times,'TimesNew Roman',serif;
+text-align: center;
+padding: 18px;
+width: 170px;
+height: 40px;
+}
+/* Create ten different classes for each colour variation of the .box class */
+.box1 {background-color: aqua ;}
+.box2 {background-color: orange ;}
+.box3 {background-color:yellow ;}
+.box4 {background-color:blue ;}
+.box5 {background-color: brown;}
+
+
+
+
+/* this is my first stylesheeet*/
+@import
+url(https://www.google.com/search?q=tom+clancy%27s+the+division+2&tbm=isch&chips=q:tom+clancy%27s+the+division+2,g_1:edition:sKsOQUjDwfs%3D&rlz=1C1AVUC_enGB751GB790&hl=en-GB&sa=X&ved=2ahUKEwiD4ciZqaHzAhUL_xoKHcPXD5gQ4lYoBnoECAEQKA&biw=1079&bih=480#imgrc=7D_VQEXnpRDYiM);
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    background-image: url ("tom clancys the division 2 limited edition");
+}
+
+/* this is my own class*/
+.intro {
+    background-color: red;
+    text-align: center;
+}
+
+.large {
+    font-size: 9px;
+}
+
+/* this is how you type up ids*/
+
+#specialblue{
+    color: aqua
+}
+
+h1 {
+    color: brown;
+    font-size: medium;
+}
+
+h2 {
+    color: chartreuse
+}
+
+h3 {
+    color: cyan
+}
+
+* {
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+img {
+    width: 240;
+}
